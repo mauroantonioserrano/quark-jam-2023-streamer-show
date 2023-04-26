@@ -1,0 +1,3 @@
+﻿  Juego_streamer.cpp
+C:\Users\mauro\source\repos\STREAMER_SHOW\STREAMER_SHOW\Juego_streamer.cpp(835,16): warning C4566: el carácter representado por el nombre de carácter universal '\U0001F601' no se puede representar en la página de códigos actual (1252)
+  STREAMER_SHOW.vcxproj -> C:\Users\mauro\source\repos\STREAMER_SHOW\Debug\STREAMER_SHOW.exe
